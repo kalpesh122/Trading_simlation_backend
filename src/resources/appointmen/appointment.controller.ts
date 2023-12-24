@@ -1,6 +1,4 @@
-// author: qiwei sun
-// date: 2022/07/15
-// description: this file defined all the business logic handled by the appointment
+
 import { Router, Request, Response, NextFunction } from "express";
 import Controller from "../../utils/interfaces/controller.interface";
 import HttpException from "../../utils/exceptions/http.exception";

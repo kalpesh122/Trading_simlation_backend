@@ -1,8 +1,3 @@
-/**
- * Author: Udit Gandhi
- * BannerID: B00889579
- * Email: udit.gandhi@dal.ca
- */
 import express, { Application } from "express";
 import dotenv from "dotenv";
 import compression from "compression";
